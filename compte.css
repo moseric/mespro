@@ -1,3 +1,8 @@
+@media screen and (min-width:768px){
+	#moseric{
+		display:none;
+	}
+}
 #moseric{
 	display: flex;
 	border: 12px;
