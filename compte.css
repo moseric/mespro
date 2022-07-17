@@ -1,8 +1,4 @@
-@media screen and (max-width:400px){
-	#moseric{
-		display:none;
-	}
-}
+
 #moseric{
 	display: flex;
 	border: 12px;
@@ -88,4 +84,9 @@ padding: 100px;
 legend{
 	color: blue;
 	padding: 45px;
+}
+@media screen and (max-width:400px){
+	#moseric{
+		display:none;
+	}
 }
