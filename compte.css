@@ -6,8 +6,6 @@
 	width: 100%;
 
 }
-p{
-	width:100%;}
 #tous{
 	margin: 12px;
 	font-size: 25px;
@@ -91,4 +89,8 @@ legend{
 	#moseric{
 		display:none;
 	}
+	
+   p{
+	width:100%;
+    }
 }
