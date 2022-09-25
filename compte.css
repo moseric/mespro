@@ -87,8 +87,11 @@ legend{
 }
 @media screen and (max-width:768px){
 	#moseric{
-		display:none;
+		display:block;
 	}
+     body{
+       font-size:13px
+       }
 	
    p{
 	width:auto;
