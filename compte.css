@@ -90,10 +90,13 @@ legend{
 		display:block;
 	}
      body{
-       font-size:13px
+       font-size:13px;
        }
 	
    p{
 	width:auto;
     }
+  img{ 
+       width:100%;
+      }
 }
